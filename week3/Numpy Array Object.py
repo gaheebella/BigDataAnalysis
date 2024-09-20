@@ -8,6 +8,7 @@ arr2 = np.array([[1, 2, 3], [4, 5, 6]]) #2D
 #두 개의 리스트가 하나의 2차원 배열로 생성됨
 print(arr2)
 
+
 arr = np.zeros(6) #0으로 채워진 배열, 요소 6개
 print(arr)
 print(type(arr)) # arr의 데이터 타입
