@@ -44,6 +44,7 @@ print(arr)
 
 arr = np.zeros((2,3))
 print(arr)
+
 #arr.reshape(-1): reshape 함수는 배열의 형태를 변경하는 함수.
 #(-1)은 NumPy에게 자동으로 배열의 크기를 계산하여 1차원 배열로 변환(평탄화 flatten)
 arr = arr.reshape(-1)
