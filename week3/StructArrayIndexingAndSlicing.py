@@ -12,3 +12,11 @@ print(arr3)
 print(arr3[1,1,2]) #두 번째 3x4배열의 2행 3열
 print(arr3[1][2][3]) #두 번째 3x4배열의 3행 4열
 
+print(arr1[:6])
+print(arr1[0:5])
+print(arr1[::2])
+print(arr1[1::2])
+print(arr1[1:7:2])
+print(arr1[-3:9])
+print(arr1[:-3])
+print(arr1[-3:2:-1])
